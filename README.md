@@ -27,26 +27,26 @@
 
 ## Top Skills
 
-![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)
-![Numpy Badge](https://img.shields.io/badge/-Numpy-013243?style=for-the-badge&labelColor=black&logo=numpy&logoColor=013243)
-![Pandas Badge](https://img.shields.io/badge/-Pandas-130654?style=for-the-badge&labelColor=black&logo=pandas&logoColor=white)
-![Scipy Badge](https://img.shields.io/badge/-scipy-0054a6?style=for-the-badge&labelColor=black&logo=scipy&logoColor=0054a6)
-![SQLite](https://img.shields.io/badge/-SQLite-003b57?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=003b57)
+[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#)
+[![Numpy Badge](https://img.shields.io/badge/-Numpy-013243?style=for-the-badge&labelColor=black&logo=numpy&logoColor=013243)](#)
+[![Pandas Badge](https://img.shields.io/badge/-Pandas-130654?style=for-the-badge&labelColor=black&logo=pandas&logoColor=white)](#)
+[![Scipy Badge](https://img.shields.io/badge/-scipy-0054a6?style=for-the-badge&labelColor=black&logo=scipy&logoColor=0054a6)](#)
 
-![Matplotlib Badge](https://img.shields.io/badge/-matplotlib-11557c?style=for-the-badge&labelColor=black&logo=microstrategy&logoColor=11557c)
-![Seaborn Badge](https://img.shields.io/badge/-seaborn-7db0bc?style=for-the-badge&labelColor=black&logo=cesium&logoColor=7db0bc)
+[![SQLite](https://img.shields.io/badge/-SQLite-003b57?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=003b57)](#)
+[![Matplotlib Badge](https://img.shields.io/badge/-matplotlib-11557c?style=for-the-badge&labelColor=black&logo=microstrategy&logoColor=11557c)](#)
+[![Seaborn Badge](https://img.shields.io/badge/-seaborn-7db0bc?style=for-the-badge&labelColor=black&logo=cesium&logoColor=7db0bc)](#)
 
 
 ## Currently Learning
 
-![SQL-Server Badge](https://img.shields.io/badge/-SQL_Server-CC2927?style=for-the-badge&labelColor=black&logo=microsoft-sql-server&logoColor=CC2927)
-![Tableau Badge](https://img.shields.io/badge/-tableau-E97627?style=for-the-badge&labelColor=black&logo=tableau&logoColor=E97627)
-![Scikit-learn Badge](https://img.shields.io/badge/-scikit_learn-F7931E?style=for-the-badge&labelColor=black&logo=scikitlearn&logoColor=F7931E)
+[![SQL-Server Badge](https://img.shields.io/badge/-SQL_Server-CC2927?style=for-the-badge&labelColor=black&logo=microsoft-sql-server&logoColor=CC2927)](#)
+[![Tableau Badge](https://img.shields.io/badge/-tableau-E97627?style=for-the-badge&labelColor=black&logo=tableau&logoColor=E97627)](#)
+[![Scikit-learn Badge](https://img.shields.io/badge/-scikit_learn-F7931E?style=for-the-badge&labelColor=black&logo=scikitlearn&logoColor=F7931E)](#)
 
-![Tensorflow Badge](https://img.shields.io/badge/-tensorflow-ff6f00?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=ff6f00)
-![Keras Badge](https://img.shields.io/badge/-keras-d00000?style=for-the-badge&labelColor=black&logo=keras&logoColor=d00000)
-![Streamlit Badge](https://img.shields.io/badge/-streamlit-ff4b4b?style=for-the-badge&labelColor=black&logo=streamlit&logoColor=ff4b4b)
-![AWS Badge](https://img.shields.io/badge/-AWS-232f3e?style=for-the-badge&labelColor=black&logo=amazon-aws&logoColor=232f3e)
+[![Tensorflow Badge](https://img.shields.io/badge/-tensorflow-ff6f00?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=ff6f00)](#)
+[![Keras Badge](https://img.shields.io/badge/-keras-d00000?style=for-the-badge&labelColor=black&logo=keras&logoColor=d00000)](#)
+[![Streamlit Badge](https://img.shields.io/badge/-streamlit-ff4b4b?style=for-the-badge&labelColor=black&logo=streamlit&logoColor=ff4b4b)](#)
+[![AWS Badge](https://img.shields.io/badge/-AWS-232f3e?style=for-the-badge&labelColor=black&logo=amazon-aws&logoColor=232f3e)](#)
 
 
 ### Don't stop, keep going to learn!
@@ -57,7 +57,7 @@
 
 <br>
 
-![Playing Now](https://img.shields.io/badge/Spotify-Now_Playing-1ED760?&style=for-the-badge&logo=spotify&logoColor=1ED760)
+[![Playing Now](https://img.shields.io/badge/Spotify-Now_Playing-1ED760?&style=for-the-badge&logo=spotify&logoColor=1ED760)](https://open.spotify.com/user/11135883608)
 
 [![Spotify](https://playing-now-metastaban.vercel.app/api/spotify)](https://open.spotify.com/user/11135883608)
 
@@ -65,9 +65,9 @@
 
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=metastaban&theme=darcula)
+[![Stats](https://github-readme-stats.vercel.app/api?username=metastaban&theme=darcula)](#)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metastaban&theme=darcula&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metastaban&theme=darcula&layout=compact)](#)
 
 </center>
 
