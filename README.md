@@ -1,12 +1,6 @@
 
 
-## Hi, I'm Mehmet Emin! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="24px">
-
-<br>
-
----
-
-<br>
+# Hi, I'm Mehmet Emin! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="24px">
 
 ## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="45px"> About Me:
 
@@ -22,16 +16,10 @@
 
 <center>
 
----
-
-<br>
-
 ## To Reach Me
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-emin-tastaban/)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/metastaban/)
 [![](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehmetemin@tastaban.net)
-
-<br>
 
 ---
 
