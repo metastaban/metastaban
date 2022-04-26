@@ -36,14 +36,14 @@
 [![Matplotlib Badge](https://img.shields.io/badge/-matplotlib-11557c?style=for-the-badge&labelColor=black&logo=microstrategy&logoColor=11557c)](#)
 [![Seaborn Badge](https://img.shields.io/badge/-seaborn-7db0bc?style=for-the-badge&labelColor=black&logo=cesium&logoColor=7db0bc)](#)
 
+[![SQL-Server Badge](https://img.shields.io/badge/-SQL_Server-CC2927?style=for-the-badge&labelColor=black&logo=microsoft-sql-server&logoColor=CC2927)](#)
+[![Tableau Badge](https://img.shields.io/badge/-tableau-E97627?style=for-the-badge&labelColor=black&logo=tableau&logoColor=E97627)](#)
 
 ## Currently Learning
 
-[![SQL-Server Badge](https://img.shields.io/badge/-SQL_Server-CC2927?style=for-the-badge&labelColor=black&logo=microsoft-sql-server&logoColor=CC2927)](#)
-[![Tableau Badge](https://img.shields.io/badge/-tableau-E97627?style=for-the-badge&labelColor=black&logo=tableau&logoColor=E97627)](#)
 [![Scikit-learn Badge](https://img.shields.io/badge/-scikit_learn-F7931E?style=for-the-badge&labelColor=black&logo=scikitlearn&logoColor=F7931E)](#)
-
 [![Tensorflow Badge](https://img.shields.io/badge/-tensorflow-ff6f00?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=ff6f00)](#)
+
 [![Keras Badge](https://img.shields.io/badge/-keras-d00000?style=for-the-badge&labelColor=black&logo=keras&logoColor=d00000)](#)
 [![Streamlit Badge](https://img.shields.io/badge/-streamlit-ff4b4b?style=for-the-badge&labelColor=black&logo=streamlit&logoColor=ff4b4b)](#)
 [![AWS Badge](https://img.shields.io/badge/-AWS-232f3e?style=for-the-badge&labelColor=black&logo=amazon-aws&logoColor=232f3e)](#)
