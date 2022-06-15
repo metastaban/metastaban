@@ -7,7 +7,7 @@
 - 🖥️ I'm a Data Science & Machine Learning Trainee at Clarusway IT Bootcamp 
       <a href="https://clarusway.com"><img align="center" src="https://coursereport-production.imgix.net/uploads/school/logo/1167/original/CW_3d_transparent2.png?w=200&h=200&dpr=1&q=75" width="30"></a>
 - 💻 I use daily  **.py**, **.ipynb**, **.sql**
-- 📖 I am currently reading **The Art of Strategy** by Avinash K. Dixit, Barry J. Nalebuff
+- 📖 I am currently reading **Hello World: How to be Human in the Age of the Machine** by Hannah Fry
 - 💬 Talk to me about video games, python, machine learning & deep learning
 - 👯 We can connect to play some games on <a href="http://live.xbox.com/Profile?Gamertag=Atilius1225"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/387_Xbox_logo-512.png" width="15px"></a> or <a href="https://steamcommunity.com/id/metastaban/"><img align="center" src="https://cdn2.iconfinder.com/data/icons/gaming-platforms-logo-shapes/250/steam_logo-256.png" width="15px"></a>
 - ⚡ Fun fact: Ho iniziato a imparare l'italiano.
