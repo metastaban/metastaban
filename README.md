@@ -4,11 +4,11 @@
 
 ## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="45px"> About Me:
 
-- 🖥️ I'm a Data Science & Machine Learning Trainee at Clarusway IT Bootcamp 
-      <a href="https://clarusway.com"><img align="center" src="https://coursereport-production.imgix.net/uploads/school/logo/1167/original/CW_3d_transparent2.png?w=200&h=200&dpr=1&q=75" width="30"></a>
-- 💻 I use daily  **.py**, **.ipynb**, **.sql**
-- 📖 I am currently reading **Hello World: How to be Human in the Age of the Machine** by Hannah Fry
-- 💬 Talk to me about video games, python, machine learning & deep learning
+- 🖥️ I'm a Tableau Instructor at Clarusway 
+      <a href="https://clarusway.com"><img align="center" src="https://clarusway.com/wp-content/uploads/2022/08/clarusway_925x1182-235x300.png?w=100&h=100&dpr=1&q=75" width="15"></a>
+- 💻 I use daily  **.py**, **.ipynb**, **.twbx**
+- 📖 I am currently reading **The Black Swan - The Impact of the Highly Improbable** by Nassim Nicholas Taleb
+- 💬 Talk to me about video games, data viusalization, python, machine learning & deep learning
 - 👯 We can connect to play some games on <a href="http://live.xbox.com/Profile?Gamertag=Atilius1225"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/387_Xbox_logo-512.png" width="15px"></a> or <a href="https://steamcommunity.com/id/metastaban/"><img align="center" src="https://cdn2.iconfinder.com/data/icons/gaming-platforms-logo-shapes/250/steam_logo-256.png" width="15px"></a>
 - ⚡ Fun fact: Ho iniziato a imparare l'italiano.
 
@@ -54,14 +54,6 @@
 ### Don't stop, keep going to learn!
 
 <br>
-
----
-
-<br>
-
-[![Playing Now](https://img.shields.io/badge/Spotify-Now_Playing-1ED760?&style=for-the-badge&logo=spotify&logoColor=1ED760)](https://open.spotify.com/user/11135883608)
-
-[![Spotify](https://playing-now-metastaban.vercel.app/api/spotify)](https://open.spotify.com/user/11135883608)
 
 ---
 
