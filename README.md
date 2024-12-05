@@ -27,172 +27,113 @@ me.say_hi()
 
 ## 🛠️ Tech Stack
 
-<!-- Custom Badge Style -->
-<style>
-.tech-stack {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-  padding: 16px 0;
-}
+<div align="center" style="padding: 20px 0;">
 
-.tech-badge {
-  display: inline-flex;
-  align-items: center;
-  padding: 0 12px;
-  height: 36px;
-  border-radius: 18px;
-  background: #0d1117;
-  border: 1px solid rgba(255,255,255,0.1);
-  transition: all 0.3s ease;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
-  min-width: 100px;
-}
-
-.tech-badge:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 4px 8px rgba(0,0,0,0.3);
-  border-color: rgba(255,255,255,0.2);
-}
-
-.tech-badge img {
-  width: 20px;
-  height: 20px;
-  margin-right: 6px;
-  filter: brightness(0) invert(1);
-}
-
-.tech-badge span {
-  color: #fff;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-  font-size: 13px;
-  font-weight: 500;
-  white-space: nowrap;
-}
-
-.section-title {
-  margin: 24px 0 12px;
-  color: #58a6ff;
-  font-size: 18px;
-  font-weight: 600;
-}
-</style>
-
-<details open>
-<summary><b>💻 Programming & Data Science</b></summary>
-<div class="tech-stack">
-  <div class="tech-badge" style="background: linear-gradient(135deg, #1B4B72, #3776AB)">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" alt="Python"/>
-    <span>Python</span>
+### 💻 Programming & Data Science
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; padding: 16px 0;">
+  <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #1B4B72, #3776AB); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
+    <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" alt="Python"/>
+    <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">Python</span>
   </div>
-  <div class="tech-badge" style="background: linear-gradient(135deg, #2A7BA7, #013243)">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" alt="NumPy"/>
-    <span>NumPy</span>
+  <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #2A7BA7, #013243); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
+    <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" alt="NumPy"/>
+    <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">NumPy</span>
   </div>
-  <div class="tech-badge" style="background: linear-gradient(135deg, #2A7BA7, #150458)">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" alt="Pandas"/>
-    <span>Pandas</span>
+  <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #2A7BA7, #150458); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
+    <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" alt="Pandas"/>
+    <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">Pandas</span>
   </div>
-  <div class="tech-badge" style="background: linear-gradient(135deg, #2A7BA7, #0054A6)">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scipy.svg" alt="SciPy"/>
-    <span>SciPy</span>
+  <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #2A7BA7, #0054A6); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
+    <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scipy.svg" alt="SciPy"/>
+    <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">SciPy</span>
   </div>
 </div>
-</details>
 
-<details open>
-<summary><b>📊 Data Visualization</b></summary>
-<div class="tech-stack">
-  <div class="tech-badge" style="background: linear-gradient(135deg, #2A7BA7, #E97627)">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" alt="Tableau"/>
-    <span>Tableau</span>
+### 📊 Data Visualization
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; padding: 16px 0;">
+  <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #2A7BA7, #E97627); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
+    <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" alt="Tableau"/>
+    <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">Tableau</span>
   </div>
-  <div class="tech-badge" style="background: linear-gradient(135deg, #1B4B72, #11557C)">
-    <img src="https://api.iconify.design/mdi:chart-line.svg?color=white" alt="Matplotlib"/>
-    <span>Matplotlib</span>
+  <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #1B4B72, #11557C); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
+    <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://api.iconify.design/mdi:chart-line.svg?color=white" alt="Matplotlib"/>
+    <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">Matplotlib</span>
   </div>
-  <div class="tech-badge" style="background: linear-gradient(135deg, #2A7BA7, #4A8FB7)">
-    <img src="https://api.iconify.design/mdi:chart-box.svg?color=white" alt="Seaborn"/>
-    <span>Seaborn</span>
+  <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #2A7BA7, #4A8FB7); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
+    <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://api.iconify.design/mdi:chart-box.svg?color=white" alt="Seaborn"/>
+    <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">Seaborn</span>
   </div>
 </div>
-</details>
 
-<details open>
-<summary><b>🤖 Machine Learning & AI</b></summary>
-<div class="tech-stack">
-  <div class="tech-badge" style="background: linear-gradient(135deg, #D97F1E, #F7931E)">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg" alt="Scikit-learn"/>
-    <span>Scikit-learn</span>
+### 🤖 Machine Learning & AI
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; padding: 16px 0;">
+  <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #D97F1E, #F7931E); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
+    <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg" alt="Scikit-learn"/>
+    <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">Scikit-learn</span>
   </div>
-  <div class="tech-badge" style="background: linear-gradient(135deg, #E66300, #FF6F00)">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tensorflow.svg" alt="TensorFlow"/>
-    <span>TensorFlow</span>
+  <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #E66300, #FF6F00); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
+    <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tensorflow.svg" alt="TensorFlow"/>
+    <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">TensorFlow</span>
   </div>
-  <div class="tech-badge" style="background: linear-gradient(135deg, #B00000, #D00000)">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/keras.svg" alt="Keras"/>
-    <span>Keras</span>
+  <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #B00000, #D00000); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
+    <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/keras.svg" alt="Keras"/>
+    <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">Keras</span>
   </div>
 </div>
-</details>
 
-<details open>
-<summary><b>🗄️ Databases</b></summary>
-<div class="tech-stack">
-  <div class="tech-badge" style="background: linear-gradient(135deg, #439934, #4DB33D)">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mongodb.svg" alt="MongoDB"/>
-    <span>MongoDB</span>
+### 🗄️ Databases
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; padding: 16px 0;">
+  <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #439934, #4DB33D); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
+    <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mongodb.svg" alt="MongoDB"/>
+    <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">MongoDB</span>
   </div>
-  <div class="tech-badge" style="background: linear-gradient(135deg, #2F6792, #336791)">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postgresql.svg" alt="PostgreSQL"/>
-    <span>PostgreSQL</span>
+  <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #2F6792, #336791); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
+    <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postgresql.svg" alt="PostgreSQL"/>
+    <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">PostgreSQL</span>
   </div>
-  <div class="tech-badge" style="background: linear-gradient(135deg, #A91D22, #CC2927)">
-    <img src="https://api.iconify.design/simple-icons:microsoftsqlserver.svg?color=white" alt="MS SQL"/>
-    <span>MS SQL</span>
+  <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #A91D22, #CC2927); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
+    <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://api.iconify.design/simple-icons:microsoftsqlserver.svg?color=white" alt="MS SQL"/>
+    <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">MS SQL</span>
   </div>
 </div>
-</details>
 
-<details open>
-<summary><b>☁️ Cloud & Tools</b></summary>
-<div class="tech-stack">
-  <div class="tech-badge" style="background: linear-gradient(135deg, #DF8900, #FF9900)">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS"/>
-    <span>AWS</span>
+### ☁️ Cloud & Tools
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; padding: 16px 0;">
+  <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #DF8900, #FF9900); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
+    <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS"/>
+    <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">AWS</span>
   </div>
-  <div class="tech-badge" style="background: linear-gradient(135deg, #DFAA28, #FFCA28)">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/firebase.svg" alt="Firebase"/>
-    <span>Firebase</span>
+  <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #DFAA28, #FFCA28); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
+    <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/firebase.svg" alt="Firebase"/>
+    <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">Firebase</span>
   </div>
-  <div class="tech-badge" style="background: linear-gradient(135deg, #DF2B4B, #FF4B4B)">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/streamlit.svg" alt="Streamlit"/>
-    <span>Streamlit</span>
+  <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #DF2B4B, #FF4B4B); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
+    <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/streamlit.svg" alt="Streamlit"/>
+    <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">Streamlit</span>
   </div>
 </div>
-</details>
 
-<details open>
-<summary><b>🌐 Web Technologies</b></summary>
-<div class="tech-stack">
-  <div class="tech-badge" style="background: linear-gradient(135deg, #C44126, #E34F26)">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg" alt="HTML5"/>
-    <span>HTML5</span>
+### 🌐 Web Technologies
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; padding: 16px 0;">
+  <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #C44126, #E34F26); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
+    <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg" alt="HTML5"/>
+    <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">HTML5</span>
   </div>
-  <div class="tech-badge" style="background: linear-gradient(135deg, #1062A6, #1572B6)">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css3.svg" alt="CSS3"/>
-    <span>CSS3</span>
+  <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #1062A6, #1572B6); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
+    <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css3.svg" alt="CSS3"/>
+    <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">CSS3</span>
   </div>
-  <div class="tech-badge" style="background: linear-gradient(135deg, #D7BF1E, #F7DF1E)">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg" alt="JavaScript"/>
-    <span>JavaScript</span>
+  <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #D7BF1E, #F7DF1E); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
+    <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg" alt="JavaScript"/>
+    <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">JavaScript</span>
   </div>
-  <div class="tech-badge" style="background: linear-gradient(135deg, #41BAFB, #61DAFB)">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg" alt="React"/>
-    <span>React</span>
+  <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #41BAFB, #61DAFB); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
+    <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg" alt="React"/>
+    <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">React</span>
   </div>
 </div>
-</details>
+
+</div>
 
 ## 📊 GitHub Stats
 
@@ -205,39 +146,39 @@ me.say_hi()
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=metastaban&theme=tokyo-night&area=true&hide_border=true" width="100%"/>
 
 ## 🤝 Connect with Me
-<div class="tech-stack" style="justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; padding: 16px 0;">
   <a href="https://www.linkedin.com/in/mehmet-emin-tastaban" target="_blank" style="text-decoration: none;">
-    <div class="tech-badge" style="background: linear-gradient(135deg, #2A7BA7, #0077B5)">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn"/>
-      <span>LinkedIn</span>
+    <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #2A7BA7, #0077B5); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
+      <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn"/>
+      <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">LinkedIn</span>
     </div>
   </a>
   <a href="https://instagram.com/metastaban" target="_blank" style="text-decoration: none;">
-    <div class="tech-badge" style="background: linear-gradient(135deg, #2A7BA7, #E4405F)">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" alt="Instagram"/>
-      <span>Instagram</span>
+    <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #2A7BA7, #E4405F); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
+      <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" alt="Instagram"/>
+      <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">Instagram</span>
     </div>
   </a>
   <a href="https://tastaban.net" target="_blank" style="text-decoration: none;">
-    <div class="tech-badge" style="background: linear-gradient(135deg, #2A7BA7, #FFA500)">
-      <img src="https://api.iconify.design/mdi:web.svg?color=white" alt="Website"/>
-      <span>Website</span>
+    <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #2A7BA7, #FFA500); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
+      <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://api.iconify.design/mdi:web.svg?color=white" alt="Website"/>
+      <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">Website</span>
     </div>
   </a>
 </div>
 
 ## 🎮 Gaming
-<div class="tech-stack" style="justify-content: center;">
-  <a href="http://live.xbox.com/Profile?Gamertag=Atilius1225" style="text-decoration: none;">
-    <div class="tech-badge" style="background: linear-gradient(135deg, #2A7BA7, #107C10)">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Xbox_one_logo.svg" alt="Xbox"/>
-      <span>Xbox</span>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; padding: 16px 0;">
+  <a href="http://live.xbox.com/Profile?Gamertag=Atilius1225" target="_blank" style="text-decoration: none;">
+    <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #2A7BA7, #107C10); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
+      <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Xbox_one_logo.svg" alt="Xbox"/>
+      <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">Xbox</span>
     </div>
   </a>
-  <a href="https://steamcommunity.com/id/metastaban" style="text-decoration: none;">
-    <div class="tech-badge" style="background: linear-gradient(135deg, #2A7BA7, #171a21)">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/steam.svg" alt="Steam"/>
-      <span>Steam</span>
+  <a href="https://steamcommunity.com/id/metastaban" target="_blank" style="text-decoration: none;">
+    <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #2A7BA7, #171a21); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
+      <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/steam.svg" alt="Steam"/>
+      <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">Steam</span>
     </div>
   </a>
 </div>
