@@ -4,7 +4,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,50:FF8C00,100:FFA500&height=200&section=header&text=Mehmet%20Emin%20Taştaban&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20|%20Business%20Intelligence%20Specialist&descAlignY=52&descSize=20" alt="Header"/>
 
   <!-- Typing SVG -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=440&lines=Python+Developer;Data+Scientist;Tableau+Instructor;Tech+Enthusiast" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=440&lines=Python+Developer;Data+Scientist;Tableau+Instructor;Tech+Enthusiast" alt="Typing SVG"/>
 </div>
 
 ## 🚀 About Me
@@ -29,109 +29,49 @@ me.say_hi()
 
 <div align="center" style="padding: 20px 0;">
 
-### 💻 Programming & Data Science
-<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; padding: 16px 0;">
-  <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #1B4B72, #3776AB); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
-    <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" alt="Python"/>
-    <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">Python</span>
-  </div>
-  <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #2A7BA7, #013243); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
-    <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" alt="NumPy"/>
-    <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">NumPy</span>
-  </div>
-  <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #2A7BA7, #150458); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
-    <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" alt="Pandas"/>
-    <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">Pandas</span>
-  </div>
-  <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #2A7BA7, #0054A6); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
-    <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scipy.svg" alt="SciPy"/>
-    <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">SciPy</span>
-  </div>
-</div>
+### 💻 Programming & Data Analysis
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" alt="Python"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge" alt="SciPy"/>
+</p>
 
 ### 📊 Data Visualization
-<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; padding: 16px 0;">
-  <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #2A7BA7, #E97627); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
-    <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" alt="Tableau"/>
-    <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">Tableau</span>
-  </div>
-  <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #1B4B72, #11557C); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
-    <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://api.iconify.design/mdi:chart-line.svg?color=white" alt="Matplotlib"/>
-    <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">Matplotlib</span>
-  </div>
-  <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #2A7BA7, #4A8FB7); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
-    <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://api.iconify.design/mdi:chart-box.svg?color=white" alt="Seaborn"/>
-    <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">Seaborn</span>
-  </div>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge" alt="Seaborn"/>
+</p>
 
 ### 🤖 Machine Learning & AI
-<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; padding: 16px 0;">
-  <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #D97F1E, #F7931E); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
-    <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg" alt="Scikit-learn"/>
-    <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">Scikit-learn</span>
-  </div>
-  <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #E66300, #FF6F00); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
-    <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tensorflow.svg" alt="TensorFlow"/>
-    <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">TensorFlow</span>
-  </div>
-  <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #B00000, #D00000); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
-    <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/keras.svg" alt="Keras"/>
-    <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">Keras</span>
-  </div>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge" alt="Keras"/>
+</p>
 
 ### 🗄️ Databases
-<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; padding: 16px 0;">
-  <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #439934, #4DB33D); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
-    <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mongodb.svg" alt="MongoDB"/>
-    <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">MongoDB</span>
-  </div>
-  <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #2F6792, #336791); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
-    <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postgresql.svg" alt="PostgreSQL"/>
-    <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">PostgreSQL</span>
-  </div>
-  <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #A91D22, #CC2927); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
-    <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://api.iconify.design/simple-icons:microsoftsqlserver.svg?color=white" alt="MS SQL"/>
-    <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">MS SQL</span>
-  </div>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge" alt="MS SQL"/>
+</p>
 
 ### ☁️ Cloud & Tools
-<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; padding: 16px 0;">
-  <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #DF8900, #FF9900); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
-    <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS"/>
-    <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">AWS</span>
-  </div>
-  <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #DFAA28, #FFCA28); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
-    <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/firebase.svg" alt="Firebase"/>
-    <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">Firebase</span>
-  </div>
-  <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #DF2B4B, #FF4B4B); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
-    <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/streamlit.svg" alt="Streamlit"/>
-    <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">Streamlit</span>
-  </div>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge" alt="Streamlit"/>
+</p>
 
 ### 🌐 Web Technologies
-<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; padding: 16px 0;">
-  <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #C44126, #E34F26); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
-    <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg" alt="HTML5"/>
-    <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">HTML5</span>
-  </div>
-  <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #1062A6, #1572B6); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
-    <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css3.svg" alt="CSS3"/>
-    <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">CSS3</span>
-  </div>
-  <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #D7BF1E, #F7DF1E); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
-    <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg" alt="JavaScript"/>
-    <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">JavaScript</span>
-  </div>
-  <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #41BAFB, #61DAFB); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
-    <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg" alt="React"/>
-    <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">React</span>
-  </div>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge" alt="React"/>
+</p>
 
 </div>
 
@@ -146,42 +86,29 @@ me.say_hi()
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=metastaban&theme=tokyo-night&area=true&hide_border=true" width="100%"/>
 
 ## 🤝 Connect with Me
-<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; padding: 16px 0;">
-  <a href="https://www.linkedin.com/in/mehmet-emin-tastaban" target="_blank" style="text-decoration: none;">
-    <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #2A7BA7, #0077B5); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
-      <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn"/>
-      <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">LinkedIn</span>
-    </div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mehmet-emin-tastaban">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/metastaban" target="_blank" style="text-decoration: none;">
-    <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #2A7BA7, #E4405F); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
-      <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" alt="Instagram"/>
-      <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">Instagram</span>
-    </div>
+  <a href="https://instagram.com/metastaban">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge" alt="Instagram"/>
   </a>
-  <a href="https://tastaban.net" target="_blank" style="text-decoration: none;">
-    <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #2A7BA7, #FFA500); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
-      <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://api.iconify.design/mdi:web.svg?color=white" alt="Website"/>
-      <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">Website</span>
-    </div>
+  <a href="https://tastaban.net">
+    <img src="https://img.shields.io/badge/Website-FFA500?style=for-the-badge" alt="Website"/>
   </a>
-</div>
+</p>
 
 ## 🎮 Gaming
-<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; padding: 16px 0;">
-  <a href="http://live.xbox.com/Profile?Gamertag=Atilius1225" target="_blank" style="text-decoration: none;">
-    <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #2A7BA7, #107C10); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
-      <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Xbox_one_logo.svg" alt="Xbox"/>
-      <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">Xbox</span>
-    </div>
+
+<p align="center">
+  <a href="http://live.xbox.com/Profile?Gamertag=Atilius1225">
+    <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge" alt="Xbox"/>
   </a>
-  <a href="https://steamcommunity.com/id/metastaban" target="_blank" style="text-decoration: none;">
-    <div style="display: inline-flex; align-items: center; padding: 0 12px; height: 36px; border-radius: 18px; background: linear-gradient(135deg, #2A7BA7, #171a21); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2); min-width: 100px; transition: all 0.3s ease;">
-      <img style="width: 20px; height: 20px; margin-right: 6px; filter: brightness(0) invert(1);" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/steam.svg" alt="Steam"/>
-      <span style="color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500;">Steam</span>
-    </div>
+  <a href="https://steamcommunity.com/id/metastaban">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge" alt="Steam"/>
   </a>
-</div>
+</p>
 
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,50:FF8C00,100:FFA500&height=120&section=footer" />
